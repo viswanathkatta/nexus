@@ -22,4 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+  <repository>
+  <id>tcs</id>
+  <url>http://192.168.40.158:8081/repository/nexus/</url>
+  </repository>
+  </distributionManageme
 </project>
