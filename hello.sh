@@ -1,4 +1,3 @@
 echo "helo how are you"
-
-cd "$WORKSPACE"
-mkdir viswanathkatta
+cd /opt
+mkdir viswanathak
