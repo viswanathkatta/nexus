@@ -1,3 +1,3 @@
 echo "helo how are you"
 
-sudo  mkdir viswanathak
+sudo-S mkdir viswanathak
